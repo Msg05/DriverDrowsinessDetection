@@ -15,4 +15,4 @@ print("Squared Array:", squared)
 print("Sum:", sum_data)
 print("Mean:", mean_data)
 print("Max Value:", max_value)
-
+print("Hello World")
